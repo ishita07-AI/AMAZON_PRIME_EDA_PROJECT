@@ -38,6 +38,6 @@ This EDA provides valuable insights for Amazon Prime Video to optimize content c
 
 ## 👤 Author
 
-**Souvik Bhattacharjee**  
-📧 bhattacharjeesouvik9@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/souvik-bhattacharjee)
+**ishita gupta**  
+📧 ishitagupta634@gmail.com  
+🔗 [LinkedIn Profile](www.linkedin.com/in/ishita-gupta-b2b875278)
